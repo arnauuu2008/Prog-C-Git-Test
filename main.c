@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("Hola, Món!\n")
+	printf("editat desde linux!\n")
 	return 0;
 }
